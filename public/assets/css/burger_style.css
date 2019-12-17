@@ -1,0 +1,12 @@
+body {
+    background-color: orange;
+  }
+  
+  .red_font {
+    color: black;
+  }
+  
+  .tiny_text {
+    font-size: 12px;
+    color: #5da82f;
+  }
